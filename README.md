@@ -3,7 +3,7 @@
 ## 📱 Overview
 
 BudgetSmart is a modern, feature-rich personal finance management application for Android that helps users track their income, expenses,
-and achieve their financial goals. With a vibrant, gamified interface and comprehensive budgeting tools,
+and achieve their financial goals. With a vibrant, gamified interface and comprehensive budgeting tools,  
 BudgetSmart makes financial management engaging and intuitive.
 
 ## ✨ Features
