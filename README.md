@@ -14,8 +14,10 @@ BudgetSmart makes financial management engaging and intuitive.
 🎥 **Watch the Demo**: [BudgetSmart App Walkthrough on YouTube](https://youtu.be/P_bNtbB1Whk)
 
 ## 📸 Screenshots
+##New Features
 ![WhatsApp Image 2025-06-25 at 17 07 26_71bfc211](https://github.com/user-attachments/assets/b7f33363-89b6-4d19-8b56-f906aec58a04)
 ![WhatsApp Image 2025-06-25 at 17 07 25_17d53c5f](https://github.com/user-attachments/assets/2cb43228-4c74-4b4d-a2b6-65a0f6ef2ef2)
+##This ones
 
 ![IMG-20250625-WA0024](https://github.com/user-attachments/assets/2e268283-0a24-47af-bcf9-902c12df8325)
 ![IMG-20250625-WA0023](https://github.com/user-attachments/assets/2b2fde22-6c8c-44cd-9505-0a21347b64fc)
