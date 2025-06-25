@@ -1,5 +1,9 @@
 # 💰 BudgetSmart - Personal Finance Management App
 
+## 📱 Documentation Part1
+[OPSC6311 Part 1, POE - PLANNING (1).docx](https://github.com/user-attachments/files/20904666/OPSC6311.Part.1.POE.-.PLANNING.1.docx)
+
+
 ## 📱 Overview
 
 BudgetSmart is a modern, feature-rich personal finance management application for Android that helps users track their income, expenses,
