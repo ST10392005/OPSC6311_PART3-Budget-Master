@@ -164,7 +164,7 @@ CREATE TABLE budgets (
 
 1. **Clone the Repository**
    \`\`\`bash
-   git clone https://github.com/yourusername/budgetsmart.git
+   git clone https://github.com/ST10392005/OPSC6311_PART3-Budget-Master.git
    cd budgetsmart
    \`\`\`
 
