@@ -1,7 +1,8 @@
 # 💰 BudgetSmart - Personal Finance Management App
 
 ## 📱 Documentation Part1
-[OPSC6311 Part 1, POE - PLANNING (1).docx](https://github.com/user-attachments/files/20904666/OPSC6311.Part.1.POE.-.PLANNING.1.docx)
+[OPSC6311-POE 1_ST10392005(research).docx](https://github.com/user-attachments/files/20906223/OPSC6311-POE.1_ST10392005.research.docx)
+
 
 
 ## 📱 Overview
