@@ -6,6 +6,9 @@ BudgetSmart is a modern, feature-rich personal finance management application fo
 and achieve their financial goals. With a vibrant, gamified interface and comprehensive budgeting tools,  
 BudgetSmart makes financial management engaging and intuitive.
 
+🎥 **Watch the Demo**: [BudgetSmart App Walkthrough on YouTube](https://youtu.be/P_bNtbB1Whk)
+
+
 ## ✨ Features
 
 ### 🏠 **Dashboard & Overview**
@@ -273,9 +276,8 @@ SOFTWARE.
 ## 👥 Authors & Acknowledgments
 
 ### **Development Team**
-- **Lead Developer**: [Your Name]
-- **UI/UX Designer**: [Designer Name]
-- **Contributors**: See [CONTRIBUTORS.md](CONTRIBUTORS.md)
+- **Lead Developer**: [Lethu]
+- **UI/UX Designer**: [st10392005@rcconnect.edu.za]
 
 ### **Acknowledgments**
 - Material Design team for design guidelines
@@ -286,10 +288,9 @@ SOFTWARE.
 ## 📞 Support & Contact
 
 ### **Getting Help**
-- 📧 **Email**: support@budgetsmart.app
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/yourusername/budgetsmart/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/budgetsmart/discussions)
-- 📖 **Documentation**: [Wiki](https://github.com/ST10392005/OPSC6311_PART3-Budget-Master/new/master?fil)
+- 📧 **Email**: st10392005@rcconnect.edu.za
+- 🐛 **Bug Reports**: [GitHub Issues](st10392005@rcconnect.edu.za)
+- 💬 **Discussions**: [GitHub Discussions](st10392005@rcconnect.edu.za)
 
 <div align="center">
   <p>Made with ❤️ for better financial management</p>
